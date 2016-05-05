@@ -9,6 +9,21 @@ Trace (reverse) - Mips CPU simulator
 Warm (pwn) - like minibomb, control eax via alarm.
 
 
+[bctf2016]
+
+upload (misc) - Dump compressed data from BTRFS
+
+catvideo (misc) - zor 2 png
+
+[plaidctf]
+
+rabit (crypto) - lsb padding oracle attack (python/C)
+
+morset (misc) - Morse code parser
+
+unix_time (pwn) - easy command injection with use after free
+
+
 [gctf2016]
 
 nobigdeal (forensics) - Dump btrfs from nbd traffic
